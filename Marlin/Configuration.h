@@ -942,7 +942,7 @@
  */
 
 // Taken defaults from https://www.thingiverse.com/thing:1911146
-#define NOZZLE_TO_PROBE_OFFSET { 65, -36, -2.90 }
+#define NOZZLE_TO_PROBE_OFFSET { 70, -36, -2.90 }
 
 // Certain types of probes need to stay away from edges
 #define MIN_PROBE_EDGE 10
